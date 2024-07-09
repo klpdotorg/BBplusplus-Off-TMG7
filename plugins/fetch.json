@@ -1,0 +1,156 @@
+{
+  "cordova-plugin-android-permissions": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-android-permissions"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-androidx-adapter": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-androidx-adapter"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-appsflyer-sdk": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-appsflyer-sdk"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-file": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file@7.0.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ANDROIDX_WEBKIT_VERSION": "1.4.0"
+    }
+  },
+  "cordova-plugin-fullscreen": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-fullscreen"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-network-information": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-network-information@3.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-screen-orientation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-screen-orientation"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-x-socialsharing": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-x-socialsharing"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-sqlite-storage": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-sqlite-storage@6.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "nl.madebymark.share": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-share"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@^4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-firebasex": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-firebasex@14.2.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-file-transfer": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file-transfer"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-zip": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-zip"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-native-spinner": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-native-spinner"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-x-toast": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-x-toast"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-navigationbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-navigationbar"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-statusbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-statusbar@3.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

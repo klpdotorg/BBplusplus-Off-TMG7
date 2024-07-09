@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 9 instance 10000",
+	"frame": {"x":0,"y":0,"w":41,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":30},
+	"sourceSize": {"w":41,"h":30}
+}
+,{
+	"filename": "Symbol 9 instance 10001",
+	"frame": {"x":41,"y":0,"w":41,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":30},
+	"sourceSize": {"w":41,"h":30}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "aero.png",
+	"format": "RGB8",
+	"size": {"w":82,"h":30},
+	"scale": "1"
+}
+}

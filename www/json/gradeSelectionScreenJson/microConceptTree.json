@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 instance 10000",
+	"frame": {"x":0,"y":0,"w":180,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":233},
+	"sourceSize": {"w":180,"h":233}
+}
+,{
+	"filename": "Symbol 1 instance 10001",
+	"frame": {"x":180,"y":0,"w":180,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":233},
+	"sourceSize": {"w":180,"h":233}
+}
+,{
+	"filename": "Symbol 1 instance 10002",
+	"frame": {"x":0,"y":233,"w":180,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":233},
+	"sourceSize": {"w":180,"h":233}
+}
+,{
+	"filename": "Symbol 1 instance 10003",
+	"frame": {"x":180,"y":233,"w":180,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":233},
+	"sourceSize": {"w":180,"h":233}
+}
+,{
+	"filename": "Symbol 1 instance 10004",
+	"frame": {"x":0,"y":466,"w":180,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":233},
+	"sourceSize": {"w":180,"h":233}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "tree.png",
+	"format": "RGBA8888",
+	"size": {"w":377,"h":720},
+	"scale": "1"
+}
+}

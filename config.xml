@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.akshara.BBplusplusOffMarG7" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>BBplusplus-Off-MarG7</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+      <content src="index.html" />
+     <access origin="*" />
+    <allow-intent href="http:///" />
+    <allow-intent href="https:///" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+    <preference name="AndroidPersistentFileLocation" value="Internal" />
+    <!-- <preference name="AndroidPersistentFileLocation" value="Compatibility"/> -->
+    
+    <preference name="AndroidXEnabled" value="false"/>
+        <preference name="android-minSdkVersion" value="21" />
+        <!-- <preference name="android-targetSdkVersion" value="30" /> -->
+        <icon density="mdpi" src="assets/hdpi/ic_bbpp_logo.png" />
+        <icon density="hdpi" src="assets/hdpi/ic_bbpp_logo.png" />
+        <icon density="xhdpi" src="assets/xhdpi/ic_bbpp_logo.png" />
+        <icon density="xxhdpi" src="assets/xxhdpi/ic_bbpp_logo.png" />
+        <allow-intent href="market:*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="Orientation" value="portrait" />
+        <preference name="AndroidInsecureFileModeEnabled" value="true" />
+        <resource-file src="google-services.json" target="app/google-services.json" />
+        <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/uses-permission" xmlns:android="http://schemas.android.com/apk/res/android">
+            <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+        </edit-config>
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+
+</widget>

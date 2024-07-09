@@ -1,0 +1,793 @@
+{ 
+    "en": { 
+		"grade6": "Class 6",
+		"grade2": "Class 2",
+		"grade3": "Class 3",
+		"grade4": "Class 4",
+
+
+		"McTopicText1": "NUMBER SYSTEMS",
+		"McTopicText2": "ALGEBRA",
+		"McTopicText3": "RATIO AND PROPORTION",
+		"McTopicText4": "GEOMETRY",
+		"McTopicText5": "DECIMALS",
+
+        "numbersTitle": "NUMBERS", 
+        "fraction1_1ADesc": "1", 
+        "fraction1_1BDesc": "1", 
+        "fraction1_2ADesc": "2", 
+        "fraction1_2BDesc": "3", 
+        "fraction1_2CDesc": "4", 
+		
+		"integersTitle":"INTEGERS",
+		"length2_ADesc":"1",
+		"length2_BDesc":"2",
+		"length2_2Desc":"3",
+		"length2_3Desc":"4",
+		"length2_4ADesc":"1",
+		"length2_4BDesc":"2",
+		
+		"fractionsTitle":"FRACTIONS",
+		"weight3_1Desc":"1",
+		"weight3_2ADesc":"2",
+		"weight3_2BDesc":"1",
+		"weight3_2CDesc":"2",
+		"weight3_2DDesc":"3",
+		"weight3_3ADesc":"4",
+		"weight3_3B1Desc":"5",
+		"weight3_3B2Desc":"6",
+		
+		"operationsTitle":"OPERATIONS",
+		"volume4_1ADesc":"1",
+		"volume4_1BDesc":"2",
+		"volume4_1CDesc":"3",
+		"volume4_2ADesc":"4",
+		"volume4_2BDesc":"5",
+		"volume4_2CDesc":"6",
+		"volume4_3ADesc":"7",
+		"volume4_3BDesc":"8",
+		"volume4_3CDesc":"9",
+		
+		"patternsTitle":"PATTERNS",
+		"time5_1Desc":"1",
+		"time5_2Desc":"2",
+		"time5_4Desc":"3",
+		"time6_1Desc":"4",
+		"time6_2Desc":"5",
+		"time7_1Desc":"1",
+		"time7_2Desc":"2",
+
+		"ratioandproportionTitle":"RATIO AND PROPORTION",
+		"CountingIcecreams" : "1",
+		"PluckingMangoes1" : "2",
+		"CountingFish" : "3",
+		"CountingFlowers" : "4",
+		"PluckingMangoes2" : "5",
+		"BurstingBubbles" : "6",
+		"TracingNumbers" : "7",
+
+		"shapesTitle":"SHAPES",
+		"TheCrocodile4_1_1" : "1",
+		"TheCrocodile4_2_1" : "2",
+		"TheCrocodile4_3_1" : "3",
+		"TreeClimbing4_4_1" : "4",
+		"TreeClimbing4_5_1" : "5",
+
+		"TheCrocodile4_3_2" : "1",
+		"TreeClimbing4_4_2" : "1",
+		"TreeClimbing4_5_2" : "2",
+		"SmallorBig4_6_1" : "3",
+
+		"TheCrocodile4_3_3" : "1",
+		"TreeClimbing4_4_3" : "1",
+		"TreeClimbing4_5_3" : "2",
+		"SmallorBig4_6_2" : "3",
+
+
+		"mensurationTitle":"MENSURATION",
+		"MrCaterpillar2_1_1":"1",
+		"MrCaterpillar2_2_1":"2",
+		"MrCaterpillar2_3_1":"3",
+		"MrCaterpillar2_4_1":"4",
+		"MrCaterpillar2_5_1":"5",
+		"NumberPuzzle2_6_1":"6",
+
+		"MrCaterpillar2_1_2":"1",
+		"MrCaterpillar2_2_2":"2",
+		"MrCaterpillar2_3_2":"3",
+		"MrCaterpillar2_4_2":"4",
+		"MrCaterpillar2_5_2":"5",
+		"NumberPuzzle2_6_2":"6",
+
+		"MrCaterpillar2_1_3":"1",
+		"MrCaterpillar2_2_3":"2",
+		"MrCaterpillar2_3_3":"3",
+		"MrCaterpillar2_4_3":"4",
+		"MrCaterpillar2_5_3":"5",
+		"NumberPuzzle2_6_3":"6",
+
+		"operationTitle":"OPERATION",
+		"CoinMachine3_1_1":"1",
+		"CoinMachine3_2_1":"2",
+
+		"CoinMachine3_1_2":"1",
+		"CoinMachine3_2_2":"2",
+
+
+		"conversionTitle":"CONVERSION",
+		"HungryRabbit5_1":"1",
+		"HungryRabbit6_1":"2",
+		"CoinMachine7_1_1":"3",
+		"CoinMachine7_2_1":"4",
+
+		"CoinMachine7_1_2":"1",
+		"CoinMachine7_2_2":"2",
+
+		"CoinMachine7_1_3":"1",
+		"CoinMachine7_2_3":"2",
+
+    }, 
+    "gu": { 
+		"grade6": "વર્ગ 6",
+		"grade2": "વર્ગ 2",
+		"grade3": "વર્ગ 3",
+		"grade4": "વર્ગ 4",
+
+
+		"McTopicText1": "નંબર જ્ઞાન",
+		"McTopicText2": "માપ",
+		"McTopicText3": "આકારો",
+		"McTopicText4": "માહિતી \n હેન્ડલિંગ",
+		"McTopicText5": "નંબર \n સંચાલન",
+
+        "fractionTitle": "અપૂર્ણાક", 
+        "fraction1_1ADesc": "1", 
+        "fraction1_1BDesc": "1", 
+        "fraction1_2ADesc": "2", 
+        "fraction1_2BDesc": "3", 
+        "fraction1_2CDesc": "4", 
+		
+		"lengthTitle":"લંબાઈ",
+		"length2_ADesc":"1",
+		"length2_BDesc":"2",
+		"length2_2Desc":"3",
+		"length2_3Desc":"4",
+		"length2_4ADesc":"1",
+		"length2_4BDesc":"2",
+		
+		"weightTitle":"વજન",
+		"weight3_1Desc":"1",
+		"weight3_2ADesc":"2",
+		"weight3_2BDesc":"1",
+		"weight3_2CDesc":"2",
+		"weight3_2DDesc":"3",
+		"weight3_3ADesc":"4",
+		"weight3_3B1Desc":"5",
+		"weight3_3B2Desc":"6",
+		
+		"volumeTitle":"પરિમાણ",
+		"volume4_1ADesc":"1",
+		"volume4_1BDesc":"2",
+		"volume4_1CDesc":"3",
+		"volume4_2ADesc":"4",
+		"volume4_2BDesc":"5",
+		"volume4_2CDesc":"6",
+		"volume4_3ADesc":"7",
+		"volume4_3BDesc":"8",
+		"volume4_3CDesc":"9",
+		
+		"timeTitle":"સમય",
+		"time5_1Desc":"1",
+		"time5_2Desc":"2",
+		"time5_4Desc":"3",
+		"time6_1Desc":"4",
+		"time6_2Desc":"5",
+		"time7_1Desc":"1",
+		"time7_2Desc":"2",
+
+		"numberTitle":"નંબર",
+		"CountingIcecreams" : "1",
+		"PluckingMangoes1" : "2",
+		"CountingFish" : "3",
+		"CountingFlowers" : "4",
+		"PluckingMangoes2" : "5",
+		"BurstingBubbles" : "6",
+		"TracingNumbers" : "7",
+
+		"ComparisionTitle":"સરખામણી",
+		"TheCrocodile4_1_1" : "1",
+		"TheCrocodile4_2_1" : "2",
+		"TheCrocodile4_3_1" : "3",
+		"TreeClimbing4_4_1" : "4",
+		"TreeClimbing4_5_1" : "5",
+
+		"TheCrocodile4_3_2" : "1",
+		"TreeClimbing4_4_2" : "1",
+		"TreeClimbing4_5_2" : "2",
+		"SmallorBig4_6_1" : "3",
+
+		"TheCrocodile4_3_3" : "1",
+		"TreeClimbing4_4_3" : "1",
+		"TreeClimbing4_5_3" : "2",
+		"SmallorBig4_6_2" : "3",
+
+
+		"sequenceTitle":"ક્રમ",
+		"MrCaterpillar2_1_1":"1",
+		"MrCaterpillar2_2_1":"2",
+		"MrCaterpillar2_3_1":"3",
+		"MrCaterpillar2_4_1":"4",
+		"MrCaterpillar2_5_1":"5",
+		"NumberPuzzle2_6_1":"6",
+
+		"MrCaterpillar2_1_2":"1",
+		"MrCaterpillar2_2_2":"2",
+		"MrCaterpillar2_3_2":"3",
+		"MrCaterpillar2_4_2":"4",
+		"MrCaterpillar2_5_2":"5",
+		"NumberPuzzle2_6_2":"6",
+
+		"MrCaterpillar2_1_3":"1",
+		"MrCaterpillar2_2_3":"2",
+		"MrCaterpillar2_3_3":"3",
+		"MrCaterpillar2_4_3":"4",
+		"MrCaterpillar2_5_3":"5",
+		"NumberPuzzle2_6_3":"6",
+
+		"placeValueTitle":"સ્થાન મૂલ્ય",
+		"CoinMachine3_1_1":"1",
+		"CoinMachine3_2_1":"2",
+
+		"CoinMachine3_1_2":"1",
+		"CoinMachine3_2_2":"2",
+
+
+		"additionTitle":"સરવાળો",
+		"HungryRabbit5_1":"1",
+		"HungryRabbit6_1":"2",
+		"CoinMachine7_1_1":"3",
+		"CoinMachine7_2_1":"4",
+
+		"CoinMachine7_1_2":"1",
+		"CoinMachine7_2_2":"2",
+
+		"CoinMachine7_1_3":"1",
+		"CoinMachine7_2_3":"2",
+
+		"subtractionTitle":"બાદબાકી",
+		"HungryRabbit8_1":"1",
+		"CoinMachine10_1_1":"2",
+		"CoinMachine10_2_1":"3",
+
+		"CoinMachine10_1_2":"1",
+		"CoinMachine10_2_2":"2",
+
+		"CoinMachine10_1_3":"1",
+		"CoinMachine10_2_3":"2",
+
+
+		"multiplicationTitle":"ગુણાકાર",
+		"AforApple11_1":"1",
+		"AforApple11_2":"2",
+
+		"Mulitiplication12_1":"1",
+		"Mulitiplication12_2":"2",
+		"Mulitiplication12_3_1":"3",
+		"Mulitiplication12_3_2":"3",
+		"Mulitiplication12_3_3":"4",
+
+		"Mulitiplication13_1":"5",
+		"Mulitiplication14_1":"6",
+		"Mulitiplication14_2":"7",
+
+		"divisionTitle":"ભાગાકાર",
+		"FishInATank15_1":"1",
+		"FishInATank15_2":"2",
+
+		"CoinMachine17_2":"2",
+		"CoinMachine17_3":"3",
+
+		"CoinMachine17_2g3":"1",
+		"CoinMachine17_3g3":"2",
+
+		"spatialRelationshipTitle":"Spatial Relationship"
+
+
+    }, 
+    "hn": { 
+		"grade1": "क्लास 1",
+		"grade2": "क्लास 2",
+		"grade3": "क्लास 3",
+		"grade4": "क्लास 4",
+
+		"McTopicText1": "नंबर ज्ञान ",
+		"McTopicText2": "नाप तोल",
+		"McTopicText3": "आकार",
+		"McTopicText4": "आकड़ों का प्रभंदन",
+		"McTopicText5": "नंबर संचालन",
+
+        "fractionTitle": "भिन्न", 
+        "fraction1_1ADesc": "1", 
+        "fraction1_1BDesc": "2", 
+        "fraction1_2ADesc": "3", 
+        "fraction1_2BDesc": "4", 
+        "fraction1_2CDesc": "5", 
+		
+		"lengthTitle":"लम्बाई",
+		"length2_ADesc":"1",
+		"length2_BDesc":"2",
+		"length2_2Desc":"3",
+		"length2_3Desc":"4",
+		"length2_4ADesc":"5",
+		"length2_4BDesc":"6",
+		
+		"weightTitle":"वज़न",
+		"weight3_1Desc":"1",
+		"weight3_2ADesc":"2",
+		"weight3_2BDesc":"3",
+		"weight3_2CDesc":"4",
+		"weight3_2DDesc":"5",
+		"weight3_3ADesc":"6",
+		"weight3_3B1Desc":"7",
+		"weight3_3B2Desc":"8",
+		
+		"volumeTitle":"आयतन",
+		"volume4_1ADesc":"1",
+		"volume4_1BDesc":"2",
+		"volume4_1CDesc":"3",
+		"volume4_2ADesc":"4",
+		"volume4_2BDesc":"5",
+		"volume4_2CDesc":"6",
+		"volume4_3ADesc":"7",
+		"volume4_3BDesc":"8",
+		"volume4_3CDesc":"9",
+		
+		"timeTitle":"समय",
+		"time5_1Desc":"1",
+		"time5_2Desc":"2",
+		"time5_4Desc":"3",
+		"time6_1Desc":"4",
+		"time6_2Desc":"5",
+		"time7_1Desc":"6",
+		"time7_2Desc":"7",
+
+		"numberTitle":"नंबर",
+		"CountingIcecreams" : "1",
+		"PluckingMangoes1" : "2",
+		"CountingFish" : "3",
+		"CountingFlowers" : "4",
+		"PluckingMangoes2" : "5",
+		"BurstingBubbles" : "6",
+		"TracingNumbers" : "7",
+
+		"ComparisionTitle":"तुलना",
+		"TheCrocodile4_1_1" : "1",
+		"TheCrocodile4_2_1" : "2",
+		"TheCrocodile4_3_1" : "3",
+		"TreeClimbing4_4_1" : "4",
+		"TreeClimbing4_5_1" : "5",
+
+		"TheCrocodile4_3_2" : "1",
+		"TreeClimbing4_4_2" : "1",
+		"TreeClimbing4_5_2" : "2",
+		"SmallorBig4_6_1" : "3",
+
+		"TheCrocodile4_3_3" : "1",
+		"TreeClimbing4_4_3" : "1",
+		"TreeClimbing4_5_3" : "2",
+		"SmallorBig4_6_2" : "3",
+
+
+		"sequenceTitle":"क्रम",
+		"MrCaterpillar2_1_1":"1",
+		"MrCaterpillar2_2_1":"2",
+		"MrCaterpillar2_3_1":"3",
+		"MrCaterpillar2_4_1":"4",
+		"MrCaterpillar2_5_1":"5",
+		"NumberPuzzle2_6_1":"6",
+
+		"MrCaterpillar2_1_2":"1",
+		"MrCaterpillar2_2_2":"2",
+		"MrCaterpillar2_3_2":"3",
+		"MrCaterpillar2_4_2":"4",
+		"MrCaterpillar2_5_2":"5",
+		"NumberPuzzle2_6_2":"6",
+
+		"MrCaterpillar2_1_3":"1",
+		"MrCaterpillar2_2_3":"2",
+		"MrCaterpillar2_3_3":"3",
+		"MrCaterpillar2_4_3":"4",
+		"MrCaterpillar2_5_3":"5",
+		"NumberPuzzle2_6_3":"6",
+
+		"placeValueTitle":"स्थान मूल्य",
+		"CoinMachine3_1_1":"1",
+		"CoinMachine3_2_1":"2",
+
+		"CoinMachine3_1_2":"1",
+		"CoinMachine3_2_2":"2",
+
+
+		"additionTitle":"जोड़",
+		"HungryRabbit5_1":"1",
+		"HungryRabbit6_1":"2",
+		"CoinMachine7_1_1":"3",
+		"CoinMachine7_2_1":"4",
+
+		"CoinMachine7_1_2":"1",
+		"CoinMachine7_2_2":"2",
+
+		"CoinMachine7_1_3":"1",
+		"CoinMachine7_2_3":"2",
+
+		"subtractionTitle":"घटाव",
+		"HungryRabbit8_1":"1",
+		"CoinMachine10_1_1":"2",
+		"CoinMachine10_2_1":"3",
+
+		"CoinMachine10_1_2":"1",
+		"CoinMachine10_2_2":"2",
+
+		"CoinMachine10_1_3":"1",
+		"CoinMachine10_2_3":"2",
+
+
+		"multiplicationTitle":"गुना",
+		"AforApple11_1":"1",
+		"AforApple11_2":"2",
+
+		"Mulitiplication12_1":"1",
+		"Mulitiplication12_2":"2",
+		"Mulitiplication12_3_1":"3",
+		"Mulitiplication12_3_2":"3",
+		"Mulitiplication12_3_3":"4",
+
+		"Mulitiplication13_1":"5",
+		"Mulitiplication14_1":"6",
+		"Mulitiplication14_2":"7",
+
+		"divisionTitle":"विभाजन",
+		"FishInATank15_1":"1",
+		"FishInATank15_2":"2",
+
+		"CoinMachine17_2":"2",
+		"CoinMachine17_3":"3",
+
+		"CoinMachine17_2g3":"1",
+		"CoinMachine17_3g3":"2",
+
+		"spatialRelationshipTitle":"Spatial Relationship"
+
+    },
+    "kan": { 
+		"grade1": "ಕ್ಲಾಸ್ 1",
+		"grade2": "ಕ್ಲಾಸ್ 2",
+		"grade3": "ಕ್ಲಾಸ್ 3",
+		"grade4": "ಕ್ಲಾಸ್ 4",
+
+		"McTopicText1": "ಸಂಖ್ಯೆ ಪರಿಚಯ",
+		"McTopicText2": "ಅಳತೆಗಳು",
+		"McTopicText3": "ಆಕಾರಗಳು",
+		"McTopicText4": "ದತ್ತಾಂಶಗಳು",
+		"McTopicText5": "ಮೂಲಕ್ರಿಯೆಗಳು",
+		
+        "fractionTitle": "ಭಿನ್ನರಾಶಿ", 
+        "fraction1_1ADesc": "1", 
+        "fraction1_1BDesc": "2", 
+        "fraction1_2ADesc": "3", 
+        "fraction1_2BDesc": "4", 
+        "fraction1_2CDesc": "5", 
+		
+		"lengthTitle":"ಉದ್ದಳತೆ",
+		"length2_ADesc":"1",
+		"length2_BDesc":"2",
+		"length2_2Desc":"3",
+		"length2_3Desc":"4",
+		"length2_4ADesc":"5",
+		"length2_4BDesc":"6",
+		
+		"weightTitle":"ತೂಕದ ಅಳತೆ",
+		"weight3_1Desc":"1",
+		"weight3_2ADesc":"2",
+		"weight3_2BDesc":"3",
+		"weight3_2CDesc":"4",
+		"weight3_2DDesc":"5",
+		"weight3_3ADesc":"6",
+		"weight3_3B1Desc":"7",
+		"weight3_3B2Desc":"8",
+		
+		"volumeTitle":"ದ್ರವದ ಅಳತೆ",
+		"volume4_1ADesc":"1",
+		"volume4_1BDesc":"2",
+		"volume4_1CDesc":"3",
+		"volume4_2ADesc":"4",
+		"volume4_2BDesc":"5",
+		"volume4_2CDesc":"6",
+		"volume4_3ADesc":"7",
+		"volume4_3BDesc":"8",
+		"volume4_3CDesc":"9",
+		
+		"timeTitle":"ಸಮಯ",
+		"time5_1Desc":"1",
+		"time5_2Desc":"2",
+		"time5_4Desc":"3",
+		"time6_1Desc":"4",
+		"time6_2Desc":"5",
+		"time7_1Desc":"6",
+		"time7_2Desc":"7",
+
+		"numberTitle":"ಸಂಖ್ಯೆ",
+		"CountingIcecreams" : "1",
+		"PluckingMangoes1" : "2",
+		"CountingFish" : "3",
+		"CountingFlowers" : "4",
+		"PluckingMangoes2" : "5",
+		"BurstingBubbles" : "6",
+		"TracingNumbers" : "7",
+
+		"ComparisionTitle":"ಹೋಲಿಕೆ",
+		"TheCrocodile4_1_1" : "1",
+		"TheCrocodile4_2_1" : "2",
+		"TheCrocodile4_3_1" : "3",
+		"TreeClimbing4_4_1" : "4",
+		"TreeClimbing4_5_1" : "5",
+
+		"TheCrocodile4_3_2" : "1",
+		"TreeClimbing4_4_2" : "1",
+		"TreeClimbing4_5_2" : "2",
+		"SmallorBig4_6_1" : "3",
+
+		"TheCrocodile4_3_3" : "1",
+		"TreeClimbing4_4_3" : "1",
+		"TreeClimbing4_5_3" : "2",
+		"SmallorBig4_6_2" : "3",
+
+
+		"sequenceTitle":"ಅನುಕ್ರಮ",
+		"MrCaterpillar2_1_1":"1",
+		"MrCaterpillar2_2_1":"2",
+		"MrCaterpillar2_3_1":"3",
+		"MrCaterpillar2_4_1":"4",
+		"MrCaterpillar2_5_1":"5",
+		"NumberPuzzle2_6_1":"6",
+
+		"MrCaterpillar2_1_2":"1",
+		"MrCaterpillar2_2_2":"2",
+		"MrCaterpillar2_3_2":"3",
+		"MrCaterpillar2_4_2":"4",
+		"MrCaterpillar2_5_2":"5",
+		"NumberPuzzle2_6_2":"6",
+
+		"MrCaterpillar2_1_3":"1",
+		"MrCaterpillar2_2_3":"2",
+		"MrCaterpillar2_3_3":"3",
+		"MrCaterpillar2_4_3":"4",
+		"MrCaterpillar2_5_3":"5",
+		"NumberPuzzle2_6_3":"6",
+
+		"placeValueTitle":"ಸ್ಥಾನ ಬೆಲೆ",
+		"CoinMachine3_1_1":"1",
+		"CoinMachine3_2_1":"2",
+
+		"CoinMachine3_1_2":"1",
+		"CoinMachine3_2_2":"2",
+
+
+		"additionTitle":"ಸಂಕಲನ",
+		"HungryRabbit5_1":"1",
+		"HungryRabbit6_1":"2",
+		"CoinMachine7_1_1":"3",
+		"CoinMachine7_2_1":"4",
+
+		"CoinMachine7_1_2":"1",
+		"CoinMachine7_2_2":"2",
+
+		"CoinMachine7_1_3":"1",
+		"CoinMachine7_2_3":"2",
+
+		"subtractionTitle":"ವ್ಯವಕಲನ",
+		"HungryRabbit8_1":"1",
+		"CoinMachine10_1_1":"2",
+		"CoinMachine10_2_1":"3",
+
+		"CoinMachine10_1_2":"1",
+		"CoinMachine10_2_2":"2",
+
+		"CoinMachine10_1_3":"1",
+		"CoinMachine10_2_3":"2",
+
+
+		"multiplicationTitle":"ಗುಣಾಕಾರ",
+		"AforApple11_1":"1",
+		"AforApple11_2":"2",
+
+		"Mulitiplication12_1":"1",
+		"Mulitiplication12_2":"2",
+		"Mulitiplication12_3_1":"3",
+		"Mulitiplication12_3_2":"3",
+		"Mulitiplication12_3_3":"4",
+
+		"Mulitiplication13_1":"5",
+		"Mulitiplication14_1":"6",
+		"Mulitiplication14_2":"7",
+
+		"divisionTitle":"ಭಾಗಾಕಾರ",
+		"FishInATank15_1":"1",
+		"FishInATank15_2":"2",
+
+		"CoinMachine17_2":"2",
+		"CoinMachine17_3":"3",
+
+		"CoinMachine17_2g3":"1",
+		"CoinMachine17_3g3":"2",
+
+		"spatialRelationshipTitle":"Spatial Relationship"
+        
+    },
+    "od": { 
+		"grade1": "ଶ୍ରେଣୀ 1",
+		"grade2": "ଶ୍ରେଣୀ 2",
+		"grade3": "ଶ୍ରେଣୀ 3",
+		"grade4": "ଶ୍ରେଣୀ 4",
+
+		"McTopicText1": "ସଂଖ୍ୟା ପରିଚୟ",
+		"McTopicText2": "ମାପ",
+		"McTopicText3": "ଆକୃତି",
+		"McTopicText4": "ତଥ୍ୟ ପରିଚାଳନା",
+		"McTopicText5": "ସଂଖ୍ୟା ସଂଚାଳନ",
+		
+        "fractionTitle": "ଭଗ୍ନାଂଶ", 
+        "fraction1_1ADesc": "1", 
+        "fraction1_1BDesc": "2", 
+        "fraction1_2ADesc": "3", 
+        "fraction1_2BDesc": "4", 
+        "fraction1_2CDesc": "5", 
+		
+		"lengthTitle":"ଲମ୍ବ",
+		"length2_ADesc":"1",
+		"length2_BDesc":"2",
+		"length2_2Desc":"3",
+		"length2_3Desc":"4",
+		"length2_4ADesc":"5",
+		"length2_4BDesc":"6",
+		
+		"weightTitle":"ଓଜନ",
+		"weight3_1Desc":"1",
+		"weight3_2ADesc":"2",
+		"weight3_2BDesc":"3",
+		"weight3_2CDesc":"4",
+		"weight3_2DDesc":"5",
+		"weight3_3ADesc":"6",
+		"weight3_3B1Desc":"7",
+		"weight3_3B2Desc":"8",
+		
+		"volumeTitle":"ଆୟତନ",
+		"volume4_1ADesc":"1",
+		"volume4_1BDesc":"2",
+		"volume4_1CDesc":"3",
+		"volume4_2ADesc":"4",
+		"volume4_2BDesc":"5",
+		"volume4_2CDesc":"6",
+		"volume4_3ADesc":"7",
+		"volume4_3BDesc":"8",
+		"volume4_3CDesc":"9",
+		
+		"timeTitle":"ସମୟ",
+		"time5_1Desc":"1",
+		"time5_2Desc":"2",
+		"time5_4Desc":"3",
+		"time6_1Desc":"4",
+		"time6_2Desc":"5",
+		"time7_1Desc":"6",
+		"time7_2Desc":"7",
+
+		"numberTitle":"ସଂଖ୍ୟା",
+		"CountingIcecreams" : "1",
+		"PluckingMangoes1" : "2",
+		"CountingFish" : "3",
+		"CountingFlowers" : "4",
+		"PluckingMangoes2" : "5",
+		"BurstingBubbles" : "6",
+		"TracingNumbers" : "7",
+
+		"ComparisionTitle":"ତୁଳନା",
+		"TheCrocodile4_1_1" : "1",
+		"TheCrocodile4_2_1" : "2",
+		"TheCrocodile4_3_1" : "3",
+		"TreeClimbing4_4_1" : "4",
+		"TreeClimbing4_5_1" : "5",
+
+		"TheCrocodile4_3_2" : "1",
+		"TreeClimbing4_4_2" : "1",
+		"TreeClimbing4_5_2" : "2",
+		"SmallorBig4_6_1" : "3",
+
+		"TheCrocodile4_3_3" : "1",
+		"TreeClimbing4_4_3" : "1",
+		"TreeClimbing4_5_3" : "2",
+		"SmallorBig4_6_2" : "3",
+
+
+		"sequenceTitle":"କ୍ରମ",
+		"MrCaterpillar2_1_1":"1",
+		"MrCaterpillar2_2_1":"2",
+		"MrCaterpillar2_3_1":"3",
+		"MrCaterpillar2_4_1":"4",
+		"MrCaterpillar2_5_1":"5",
+		"NumberPuzzle2_6_1":"6",
+
+		"MrCaterpillar2_1_2":"1",
+		"MrCaterpillar2_2_2":"2",
+		"MrCaterpillar2_3_2":"3",
+		"MrCaterpillar2_4_2":"4",
+		"MrCaterpillar2_5_2":"5",
+		"NumberPuzzle2_6_2":"6",
+
+		"MrCaterpillar2_1_3":"1",
+		"MrCaterpillar2_2_3":"2",
+		"MrCaterpillar2_3_3":"3",
+		"MrCaterpillar2_4_3":"4",
+		"MrCaterpillar2_5_3":"5",
+		"NumberPuzzle2_6_3":"6",
+
+		"placeValueTitle":"ସ୍ଥାନୀୟମାନ",
+		"CoinMachine3_1_1":"1",
+		"CoinMachine3_2_1":"2",
+
+		"CoinMachine3_1_2":"1",
+		"CoinMachine3_2_2":"2",
+
+
+		"additionTitle":"ମିଶାଣ",
+		"HungryRabbit5_1":"1",
+		"HungryRabbit6_1":"2",
+		"CoinMachine7_1_1":"3",
+		"CoinMachine7_2_1":"4",
+
+		"CoinMachine7_1_2":"1",
+		"CoinMachine7_2_2":"2",
+
+		"CoinMachine7_1_3":"1",
+		"CoinMachine7_2_3":"2",
+
+		"subtractionTitle":"ଫେଡ଼ାଣ",
+		"HungryRabbit8_1":"1",
+		"CoinMachine10_1_1":"2",
+		"CoinMachine10_2_1":"3",
+
+		"CoinMachine10_1_2":"1",
+		"CoinMachine10_2_2":"2",
+
+		"CoinMachine10_1_3":"1",
+		"CoinMachine10_2_3":"2",
+
+
+		"multiplicationTitle":"ଗୁଣନ",
+		"AforApple11_1":"1",
+		"AforApple11_2":"2",
+
+		"Mulitiplication12_1":"1",
+		"Mulitiplication12_2":"2",
+		"Mulitiplication12_3_1":"3",
+		"Mulitiplication12_3_2":"3",
+		"Mulitiplication12_3_3":"4",
+
+		"Mulitiplication13_1":"5",
+		"Mulitiplication14_1":"6",
+		"Mulitiplication14_2":"7",
+
+		"divisionTitle":"ହରଣ",
+		"FishInATank15_1":"1",
+		"FishInATank15_2":"2",
+
+		"CoinMachine17_2":"2",
+		"CoinMachine17_3":"3",
+
+		"CoinMachine17_2g3":"1",
+		"CoinMachine17_3g3":"2",
+
+		"spatialRelationshipTitle":"Spatial Relationship"
+
+        
+    }
+}

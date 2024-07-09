@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "marbbplusplusoffg7.jks",
+            "storePassword": "marbbpp",
+            "alias": "marbbplusplusoffg7",
+            "password": "marbbpp",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "marbbplusplusoffg7.jks",
+            "storePassword": "marbbpp",
+            "alias": "marbbplusplusoffg7",
+            "password": "marbbpp",
+            "keystoreType": "jks"
+        }
+    }
+}
