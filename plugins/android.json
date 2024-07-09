@@ -8,23 +8,23 @@
   },
   "installed_plugins": {
     "cordova-plugin-android-permissions": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-androidx-adapter": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-appsflyer-sdk": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-device": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-file": {
       "ANDROIDX_WEBKIT_VERSION": "1.4.0",
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-file-transfer": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-firebasex": {
       "FIREBASE_ANALYTICS_COLLECTION_ENABLED": "true",
@@ -50,45 +50,45 @@
       "ANDROID_GSON_VERSION": "2.9.0",
       "ANDROID_FIREBASE_PERF_GRADLE_PLUGIN_VERSION": "1.4.1",
       "ANDROID_GRPC_OKHTTP": "1.46.0",
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-fullscreen": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-native-spinner": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-navigationbar": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-network-information": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-screen-orientation": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-statusbar": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-x-socialsharing": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-x-toast": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-plugin-zip": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "cordova-sqlite-storage": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     },
     "nl.madebymark.share": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     }
   },
   "dependent_plugins": {
     "es6-promise-plugin": {
-      "PACKAGE_NAME": "com.akshara.BBplusplusOffMarG7"
+      "PACKAGE_NAME": "com.akshara.BBplusplusOffTMG7"
     }
   }
 }

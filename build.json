@@ -1,17 +1,17 @@
 {
     "android": {
         "debug": {
-            "keystore": "marbbplusplusoffg7.jks",
-            "storePassword": "marbbpp",
-            "alias": "marbbplusplusoffg7",
-            "password": "marbbpp",
+            "keystore": "tmbbplusplusoffg7.jks",
+            "storePassword": "tmbbpp",
+            "alias": "tmbbplusplusoffg7",
+            "password": "tmbbpp",
             "keystoreType": "jks"
         },
         "release": {
-            "keystore": "marbbplusplusoffg7.jks",
-            "storePassword": "marbbpp",
-            "alias": "marbbplusplusoffg7",
-            "password": "marbbpp",
+            "keystore": "tmbbplusplusoffg7.jks",
+            "storePassword": "tmbbpp",
+            "alias": "tmbbplusplusoffg7",
+            "password": "tmbbpp",
             "keystoreType": "jks"
         }
     }
