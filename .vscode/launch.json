@@ -10,7 +10,7 @@
             "type": "cordova",
             "request": "launch",
             "platform": "android",
-            "target": "Pixel_XL_API_30", //"Pixel_6_API_30", //Pixel_6_API_30.avd,Nexus_4_API_30,NEXUS 6 is used
+            "target": "Pixel_5_API_30", //"Pixel_6_API_30", //Pixel_6_API_30.avd,Nexus_4_API_30,NEXUS 6 is used
             "sourceMaps": true,
             "cwd": "${workspaceFolder}"
         }

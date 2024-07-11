@@ -456,7 +456,7 @@ Game.appLoginEditScreen.prototype = {
 			_this.displayMessageAndDownloadAgain();
 
 			//_this.baseUrl = "https://abbmath.klp.org.in/abbchmprm/assets/bb5_0_5/";
-			_this.baseUrl = "https://abbmath.klp.org.in/bbplusplus/assets3/";
+			_this.baseUrl = "https://abbmath.klp.org.in/bbplusplus/assets2/";
 			//_this.baseUrl = "https://10.0.2.2/abbchmprm/assets/bb5_0_5/";
 			var fileTransfer = new FileTransfer();
 
@@ -468,7 +468,8 @@ Game.appLoginEditScreen.prototype = {
 					_this.progressPercentageTxt.text = Math.round((progressEvent.loaded / progressEvent.total) * 100) + "%";
 					_this.progressPercentageTxt2.text = Math.round((progressEvent.loaded / progressEvent.total) * 100) + "/100";
 
-					if (filename != "EnglishquestionSounds.zip" && filename != "HindiquestionSounds.zip" && filename != "KannadaquestionSounds.zip") {
+					if (filename != "EnglishquestionSounds.zip" && filename != "HindiquestionSounds.zip" && filename != "TamilquestionSounds.zip"
+						&& filename != "KannadaquestionSounds.zip") {
 						//console.log("Download !!!!!!");
 						// && filename != "OdiyaquestionSounds.zip" &&
 						//	filename != "MarathiquestionSounds.zip" && filename != "TamilquestionSounds.zip"
@@ -478,7 +479,7 @@ Game.appLoginEditScreen.prototype = {
 						// }
 						//	else 
 						if (filename == _this.user.language + "/TamilquestionSounds.zip") {
-							console.log("KannadaquestionSounds");
+							console.log("TamilquestionSounds");
 							_this.noOfAssets.text = "1/5";
 						}
 						else if (filename == "Assets1.zip") {
